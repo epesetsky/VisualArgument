@@ -1,0 +1,9 @@
+With this preview, I am showing a step of progress in creating my visual argument, and also the difficulty I am having with GIMP. As someone who has used Adobe Photoshop in the past, I am having trouble with the tools for this application.
+
+Here, you see a fish in water, and my attempt to add the layer of a plastic bag. I have partially erased the background that was originally attached to this photo of the plastic, but as I played with the tools to make the eraser smaller and move the image to the fish’s mouth, I have come to a problem. Not only have I painted on this large black line that I cannot seem to erase/delete, but I cannot find the correct eraser. When I attempt to do so, it draws OVER the part I am trying to erase with either white or black. I cannot seem to actually just erase so that I see more of the background. 
+
+If I were to be more proficient in GIMP, the image of the plastic bag would be perfectly erased and carved to appear as only a bag, no grey background, and it would appear to be in the fish’s mouth. With this, I am demonstrating the pollution we humans have caused throughout our oceans. 
+
+If I were to guess, this problem I am having stems from the yellow and black dotted box around the frame of the original plastic bag image. I think I am “clicked on” this image, but cannot seem to get off of this. I assume this is a quick and easy fix, but one I cannot seem to solve. 
+
+The other screenshot I have uploaded to my repository is a problem window I ran into as I saved my work. Although I do believe it was able to save to my computer without a problem, I am curious as to why this popped up, and what I can do to fix it so it does not happen again. 
