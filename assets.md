@@ -9,3 +9,5 @@ https://unsplash.com/@turner_imagery catfish
 https://www.pexels.com/photo/red-fish-45910/ redfish
 
 https://unsplash.com/@muiseadam plastic bag
+
+All taken from websites that have freely usable images for anyone.
